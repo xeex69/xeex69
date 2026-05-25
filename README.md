@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tusharbhardwaj1906@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dNAuDqtg5XnQ8lQYEmrjIG7iimLR_lds/view?usp=share_link](https://drive.google.com/file/d/1dNAuDqtg5XnQ8lQYEmrjIG7iimLR_lds/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dNAuDqtg5XnQ8lQYEmrjIG7iimLR_lds/view?usp=share_link](https://drive.google.com/file/d/1wMvdnIUvJm9c53GB8a7imjOI-af-v1lk/view?usp=share_link)
 
 - ⚡ Fun fact **I want to learn everything**
 
