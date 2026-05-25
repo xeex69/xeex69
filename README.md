@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Bhardwaaj</h1>
 <h3 align="center">A passionate Machine Learning and MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on [Student Performance Predictior](https://github.com/xeex69/student-performance-prediction)
+- 🔭 
 
 - 🌱 I’m currently learning **Python , Machine Learning , AI , Javascript , kubernettes , MERN stack**
 
